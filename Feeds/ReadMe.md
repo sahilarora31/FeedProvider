@@ -1,17 +1,17 @@
-Steps to run :
+Steps to run the application:
 
-Pass valid file path as cmd arguments.
+Provide valid file path as cmd arguments in command prompt.
 
-Step1) Build project in Release mode
-
-
-Step2) Go to bin\Release
+1. Build project in Release mode.
 
 
-Step3) Run follwing on cmd-
+2. Go to bin\Release
 
 
-SubmissionProvider.exe ".\input.txt"
+3. Run following on command prompt:
+
+
+FeedProvider.exe ".\input.txt"
 
 
 

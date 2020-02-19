@@ -1,0 +1,2 @@
+Capterra,C:\Users\sarora42\Downloads\sahil\Study\Interviews\Feeds-master\Feeds-master\feed-products\Capterra.yaml
+SoftwareAdvice,C:\Users\sarora42\Downloads\sahil\Study\Interviews\Feeds-master\Feeds-master\feed-products\SoftwareAdvice.json
